@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-09-13-hw1.md1"
+title:  "Post Name"
 date:   YYY-MM-DD
 author: Emily Sainsbury
 description: Short yet informative description
