@@ -4,7 +4,7 @@ title:  "2022-09-13-hw1.md1"
 date:   YYY-MM-DD
 author: Emily Sainsbury
 description: Short yet informative description
-image: 
+image: /assets/images/front.jpg
 ---
 
 # Here is the heading
