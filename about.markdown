@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
-I'm a senior at BYU studying Applied Statistics and Analytics.
+# I'm a senior at BYU studying Applied Statistics and Analytics.
