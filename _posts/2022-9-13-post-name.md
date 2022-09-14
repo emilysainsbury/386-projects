@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Post Name"
+title:  "2022-09-13-hw1.md1"
 date:   YYY-MM-DD
 author: Emily Sainsbury
 description: Short yet informative description
 image: 
 ---
 
-hello my name is emily here is the content for my blog post.
