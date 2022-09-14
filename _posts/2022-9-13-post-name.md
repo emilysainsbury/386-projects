@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post Name"
-date:   2022-09-13
+date:   YYY-MM-DD
 author: Emily Sainsbury
 description: Short yet informative description
 image: 
