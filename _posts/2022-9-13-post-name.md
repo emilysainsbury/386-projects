@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Name"
+title:  "Post Name 1"
 date:   YYY-MM-DD
 author: Emily Sainsbury
 description: Short yet informative
