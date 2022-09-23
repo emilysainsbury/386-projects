@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Post Name 1"
+title:  "Simple Linear Regression Tutorial (Emphasis on Simple)"
 date:   YYY-MM-DD
 author: Emily Sainsbury
-description: Short yet informative
+description: Short yet informative description
 image:
 ---
 
