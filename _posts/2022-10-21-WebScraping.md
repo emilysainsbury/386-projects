@@ -13,7 +13,9 @@ For this project, I wanted to pull data from Wikipedia since the information is 
 # What We're Looking At
 The dataset that I'm scraping contains infromation on every actor that has ever been nominated for an Academy Award. It has the number of nominations, number of wins, and the title of the first film they were nominated for. I love movies and thought this would be a fun dataset to explore.
 
-In the link at the bottom of this post is my respository for this project. So far it just has the web scraping code and the dataset. 
+The following link is my respository for this project. So far it just has the web scraping code and the dataset:
+
+https://github.com/emilysainsbury/ActorsWebScraping
 
 # The Process
 Reading in the data for this project was very simple. I'm using the pandas function "read_html()" to read in all the tables from the wikipedia page. Then, since I only wanted the second table on the page I selected that table and stored it as a dataframe. 
