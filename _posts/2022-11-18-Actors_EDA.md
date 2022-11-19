@@ -36,7 +36,7 @@ What is the effect of number of nominations on number of wins?
 
 I haven't done any deep analysis yet, but I've plotted a few things that will give us an idea of what the data has to tell us. First, lets look at the effect that gender has. 
 
-## Gender
+### Gender
 
 First I wanted to know if more female actors have been nominated in recent years than at the beginning of the academy awards. I've found this to not be the case. As shown in the chart below, the spread and mean of birth years are roughly the same for male and female actors. Note that the oldest birth year for an actor nominated for an Academy Award was a woman, who is May Robson born in 1858. 
 
@@ -46,7 +46,7 @@ Are more nominations given to men or women? The answer is again no, as shown by 
 
 ![Test Image](https://raw.githubusercontent.com/emilysainsbury/stat386-projects/main/assets/images/GenderVNominations.png)
 
-## Age
+### Age
 
 It makes sense that the younger you are the first time you're nominated for an award, the more likely you are to have more nominations in total over the course of your career. Let's see if this is the case.
 
@@ -61,7 +61,7 @@ Let's take a look at that same chart, but we'll distinguish between men an women
 Just by eyeballing it, it looks like women are more likely to get their first nomination at a younger age than men. The average age at first nomination overall is 38. For just men it's 41 and for just women it is 35. In further analysis I will test to see if the difference is significant. 
 
 
-## Number of Nominations
+### Number of Nominations
 
 Does getting nominated more often make you more likely to win? Meryl Streep might argue no, since she's been nominated nearly twice as many times as Katharine Hepburn, yet Hepburn still has more wins. Let's see what the data has to say. 
 
