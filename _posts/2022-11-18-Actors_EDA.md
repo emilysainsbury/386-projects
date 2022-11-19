@@ -40,23 +40,23 @@ I haven't done any deep analysis yet, but I've plotted a few things that will gi
 
 First I wanted to know if more female actors have been nominated in recent years than at the beginning of the academy awards. I've found this to not be the case. As shown in the chart below, the spread and mean of birth years are roughly the same for male and female actors. Note that the oldest birth year for an actor nominated for an Academy Award was a woman, who is May Robson born in 1858. 
 
-INSERT IMAGE HERE
+![Test Image](https://raw.githubusercontent.com/emilysainsbury/stat386-projects/main/assets/images/genderVBirthYear.png)
 
 Are more nominations given to men or women? The answer is again no, as shown by the charts below. We can see that the spread is roughly the same for men and women.
 
-INSERT IMAGE HERE
+![Test Image](https://raw.githubusercontent.com/emilysainsbury/stat386-projects/main/assets/images/GenderVNominations.png)
 
 ## Age
 
 It makes sense that the younger you are the first time you're nominated for an award, the more likely you are to have more nominations in total over the course of your career. Let's see if this is the case.
 
-INSERT IMAGE HERE
+![Test Image](https://raw.githubusercontent.com/emilysainsbury/stat386-projects/main/assets/images/AgeVNominations.png)
 
 As we can see, actors who are nominated for the first time around their 20s to 40s seem to the be most likely to have a high number of nominations. We can also see actors are nominated as young as 8 years old to in their 80s. It looks like no matter how old someone is, they could still get nominated for an Academy Award. 
 
 Let's take a look at that same chart, but we'll distinguish between men an women and see if there's a trend. 
 
-INSERT IMAGE HERE
+![Test Image](https://raw.githubusercontent.com/emilysainsbury/stat386-projects/main/assets/images/NominationsVAge_Gender.png)
 
 Just by eyeballing it, it looks like women are more likely to get their first nomination at a younger age than men. The average age at first nomination overall is 38. For just men it's 41 and for just women it is 35. In further analysis I will test to see if the difference is significant. 
 
@@ -71,7 +71,11 @@ Let's look at it this way: only about 32% of actors who have been nominated have
 
 If we only look at actors who have one at least once, the average number of times that they have been nominated is 2.6 times. 
 
+# Project Refrences
 
+The following link is my respository for this project.
+
+[https://github.com/emilysainsbury/ActorsWebScraping](https://github.com/emilysainsbury/ActorsWebScraping)
 
 
 
