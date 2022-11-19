@@ -44,7 +44,7 @@ First I wanted to know if more female actors have been nominated in recent years
 
 Are more nominations given to men or women? The answer is again no, as shown by the charts below. We can see that the spread is roughly the same for men and women.
 
-![Test Image](https://raw.githubusercontent.com/emilysainsbury/stat386-projects/main/assets/images/GenderVNominations.png)
+![Test Image](https://raw.githubusercontent.com/emilysainsbury/stat386-projects/main/assets/images/genderVNominations.png)
 
 ### Age
 
