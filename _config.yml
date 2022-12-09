@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Emily's Blog # Make a title for your blog
-email: emilysainsbury21.com # Add your email 
-description: A blog of my projects
+email: emilysainsbury21@gmail.com # Add your email 
+description: A blog of my data science projects
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://emilysainsbury.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/image5.jpg"
+image: "assets/images/whidbey.jpg"
 author: Emily Sainsbury
 copyright: # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
